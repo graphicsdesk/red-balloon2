@@ -247,7 +247,8 @@
             {
               "type": "image",
               "value": {
-                "width": "asset:https://cloudfront-us-east-1.images.arcpublishing.com/spectator/D6CDD2Z3X5HQNJE4NOOQYG5SLA.jpeg",
+                "width":"",
+                "asset":"https://cloudfront-us-east-1.images.arcpublishing.com/spectator/D6CDD2Z3X5HQNJE4NOOQYG5SLA.jpeg",
                 "caption": "",
                 "credit": ""
               }
