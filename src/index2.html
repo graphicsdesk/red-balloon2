@@ -34,6 +34,9 @@
           </case>
           <case n="'graphic'">
             <div class="graphic">
+              <if condition="item.value.asset === 'datawrapper.html'">
+                <include src="datawrapper.html"></include>
+              </if>
             </div>
           </case>
         </switch>
