@@ -66,7 +66,7 @@
             {
               "type": "image",
               "value": {
-                "width": "",
+                "width": "“\"",
                 "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YRIIEIPAEZD45LLUCJPO6TJRKI.jpg",
                 "caption": "Hannah Throssell, SSW ’24, a current parent at the Red Balloon Learning Center.",
                 "credit": "Frances Cohen / Staff Photographer"
@@ -91,9 +91,17 @@
             {
               "type": "text",
               "value": "This three-part series examines some of the deeper questions that Red Balloon parents and Columbia community members have raised about child care at Columbia."
+            },
+            {
+              "type": "text",
+              "value": "<i>Continue reading </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/red-balloon-part-i-no-options/\"><i>Part I</i></a><i>, where </i><i>Red Balloon</i><i> parents discuss their experiences with other Columbia-affiliated child care centers and </i><i>West Harlem-based providers.</i>"
             }
           ],
           "page_1": [
+            {
+              "type": "text",
+              "value": "<i>This is the first part of a three-part series. Click </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/in-crisis-the-costs-of-the-red-balloon-eviction-for-young-parents-at-columbia/\"><i>here</i></a><i> to read the introduction.</i>"
+            },
             {
               "type": "text",
               "value": "Starting in summer 2020, several successive Red Balloon directors stepped down from the position due to pandemic- or other health-related reasons. One passed away later in 2020 due to a sudden stroke."
@@ -228,14 +236,14 @@
             },
             {
               "type": "text",
-              "value": "<i>Continue reading Part II, in which Spectator examines the context surrounding Red Balloon’s eviction, including a national child care crisis and a University history involving child care center eviction.</i>"
-            },
-            {
-              "type": "text",
-              "value": "<i>News Editor Esther Sun can be contacted at </i><a href=\"mailto:esther.sun@columbiaspectator.com\"><i>esther.sun@columbiaspectator.com</i></a><i>. Follow her on Twitter @esthercsun.</i>"
+              "value": "<i>Continue reading </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/part-ii-no-answers/\"><i>Part II</i></a><i>, in which Spectator examines the context surrounding Red Balloon’s eviction, including a national child care crisis and a University history involving child care center eviction.</i>"
             }
           ],
           "page_2": [
+            {
+              "type": "text",
+              "value": "<i>This is the second part of a three-part series. Click </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/in-crisis-the-costs-of-the-red-balloon-eviction-for-young-parents-at-columbia/\"><i>here</i></a><i> to read the </i><i>introduction</i><i> and </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/red-balloon-part-i-no-options/\"><i>here</i></a><i> to read Part I.</i>"
+            },
             {
               "type": "text",
               "value": "Red Balloon’s eviction comes over 40 years after Columbia attempted to evict another parent cooperative, the Children’s Free School, even as it worked to expand its child care support in the early 1970s through programs such as the Columbia Day Care Project which produced Red Balloon."
@@ -343,10 +351,14 @@
             },
             {
               "type": "text",
-              "value": "<i>News Editor Esther Sun can be contacted at </i><a href=\"mailto:esther.sun@columbiaspectator.com\"><i>esther.sun@columbiaspectator.com</i></a><i>. Follow her on Twitter @esthercsun.</i>"
+              "value": "<i>Continue reading </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/part-iii-no-support/\"><i>Part III</i></a><i>, in which a Red Balloon parent discusses the need for more University support in finding child care for non-faculty affiliates.</i>"
             }
           ],
           "page_3": [
+            {
+              "type": "text",
+              "value": "<i>This is the third part of a three-part series. Click </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/in-crisis-the-costs-of-the-red-balloon-eviction-for-young-parents-at-columbia/\"><i>here</i></a><i> to read the introduction, </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/red-balloon-part-i-no-options/\"><i>here</i></a><i> to read Part I, and </i><a href=\"https://www.columbiaspectator.com/city-news/2023/04/20/part-ii-no-answers/\"><i>here</i></a><i> to read Part II.</i>"
+            },
             {
               "type": "text",
               "value": "Hannah Throssell, SSW ’24, said the lack of individualized outreach and support from the Office of Work/Life was especially discouraging throughout what she described as a “traumatic experience” in securing child care at Columbia."
